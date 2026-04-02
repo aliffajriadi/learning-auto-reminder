@@ -1,0 +1,18 @@
+{
+  "port": 3874,
+  "baseUrl": "https://learning-if.polibatam.ac.id",
+  "user": {
+    "username": "nama.33123213",
+    "password": "123456"
+  },
+  "discord": {
+    "enabled": false,
+    "webhookUrl": ""
+  },
+  "whatsapp": {
+    "enabled": false,
+    "groupId": "",
+    "apiUrl": "",
+    "apiKey": ""
+  }
+}
