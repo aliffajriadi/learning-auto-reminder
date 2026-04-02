@@ -1,5 +1,6 @@
-# 📚 Moodle Deadline Reminder Bot
+# 📚 Learning Scrapping Polibatam
 
+!!Projek ini hanya untuk membantu para kalangan mahasiswa polibatam dalam pengingat tugas!!
 > Bot otomatis untuk memantau deadline tugas dari Moodle dan mengirimkan pengingat ke **Discord** dan **WhatsApp**.
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green?logo=node.js)](https://nodejs.org)
