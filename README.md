@@ -1,11 +1,24 @@
-# 📚 Learning Scrapping Polibatam
+# 📚 Learning Scraping Polibatam
 
-!!Projek ini hanya untuk membantu para kalangan mahasiswa polibatam dalam pengingat tugas!!
-> Bot otomatis untuk memantau deadline tugas dari Moodle dan mengirimkan pengingat ke **Discord** dan **WhatsApp**.
+> Bot Automation untuk memantau deadline tugas dari Moodle dan mengirimkan notifikasi ke **Discord** dan **Grub WhatsApp Kelas**.
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green?logo=node.js)](https://nodejs.org)
 [![License](https://img.shields.io/badge/License-ISC-blue)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com)
+
+---
+
+## ⚠️ Disclaimer
+
+> **Proyek ini dibuat semata-mata untuk tujuan edukasi dan membantu mahasiswa Polibatam dalam memantau deadline tugas.**
+
+Dengan menggunakan proyek ini, kamu menyetujui hal-hal berikut:
+
+- 🏫 **Tidak Berafiliasi** — Proyek ini **tidak** terafiliasi, didukung, atau disponsori oleh Polibatam maupun platform Moodle secara resmi.
+- 🔐 **Tanggung Jawab Kredensial** — Kamu bertanggung jawab penuh atas keamanan kredensial (NIM & password) yang dimasukkan ke dalam `config.json`. **Jangan pernah** membagikan atau meng-commit file tersebut ke repository publik.
+- ⚖️ **Penggunaan Etis** — Proyek ini hanya boleh digunakan untuk keperluan pribadi dan tidak untuk tujuan yang merugikan, merusak, atau melanggar kebijakan penggunaan sistem Moodle kampus.
+- 🌐 **Scraping** — Proses login dan pengambilan data dilakukan melalui session/cookie yang mensimulasikan perilaku browser. Gunakan secara wajar dan jangan sampai membebani server kampus.
+- 📵 **Tanpa Garansi** — Proyek ini disediakan *"as-is"* tanpa garansi apapun. Penulis tidak bertanggung jawab atas kerugian yang timbul dari penggunaan proyek ini.
 
 ---
 
